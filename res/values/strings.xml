@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">¿Conoces Bolivia?</string>
+    <string name="titulo1">¿Conoces</string>
+    <string name="titulo2">Bolivia?</string>
+    <string name="descripcion">¿Conoces Bolivia?\nversión 1.0 - Postgrado Informática</string>
+    
+    <string name="titulo_menu">Menú</string>
+    <string name="item_iniciar">Iniciar</string>
+    <string name="item_puntajes">Puntajes</string>
+    <string name="item_configuraciones">Config.</string>
+    <string name="item_ayuda">Ayuda</string>
+    
+</resources>

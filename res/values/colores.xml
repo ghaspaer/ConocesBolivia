@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_titulos">#FFFF0F</color>
+    <color name="color_descripcion">#F0F0F0</color>
+    <color name="color_fondo_gral">#32B5E5</color>
+    <color name="color_fondo_desc">#0098CB</color>
+    
+    <color name="color_tit_app">#FFFFFF</color>
+    <color name="color_sombra_tit">#00FF00</color>
+    <color name="color_items">#FFFF0F</color>
+    <color name="color_sombra_items">#D8001E</color>
+    
+</resources>

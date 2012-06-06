@@ -1,0 +1,17 @@
+¿Conoces Bolivia?
+
+Boliva es una país único, con la diversidad de ambiente que tiene, lugares cálidos, frios y templados, Bolivia se encuentra en el Corazón de Sudamérica y si no lo conoces... no sabes lo que te estas perdiendo.
+
+¿Conoces Bolivia? es una aplicación que nos permitirá saber cuanto realmente conocemos de bolivia, con una serie de preguntas con la foto de un lugar turístico y tu tendrás la opción de responder "Si" o "No" para saber si conoces ese lugar o no.
+
+Finalmente los resultados se almacenaran en tu mismo teléfono y ingresarás en un ranking dóne podrás competir con tus amigos y presumir que conoces más lugares de Bolivia que el.
+
+¿Conoces Bolivia? versión 1.0
+Desarrollado por:
+
+Gustavo Josué Lizárraga 
+Daniel Álvarez Aquino
+Gabriel Condori Cortes
+
+Postgrado Informática -2012
+La Paz - Bolivia

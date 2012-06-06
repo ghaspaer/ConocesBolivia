@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dim_titulos">24pt</dimen>
+    <dimen name="dim_descripcion">5pt</dimen>
+    
+    <dimen name="dim_titulo_app">20pt</dimen>
+    <dimen name="dim_items">16pt</dimen>
+    
+    <dimen name="dim_margen">20pt</dimen>
+    <dimen name="dim_texto">7pt</dimen>
+    <dimen name="dim_texto_fading">25pt</dimen>
+    <dimen name="dim_border_imagen">5pt</dimen>
+    
+</resources>
+
